@@ -1,5 +1,3 @@
-import pytest
-
 class StaticArray:
     def __init__(self, capacity):
         self._array = [0] * capacity
