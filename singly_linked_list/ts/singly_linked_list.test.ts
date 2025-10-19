@@ -1,5 +1,5 @@
 import { describe, test, expect, beforeEach, vi } from 'vitest';
-import { SinglyLinkedList } from './index';
+import { SinglyLinkedList } from './singly_linked_list';
 
 describe('SinglyLinkedList', () => {
     let ll: SinglyLinkedList<number>;
